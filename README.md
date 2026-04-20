@@ -10,8 +10,7 @@
 - 🎓 BTech Computer Science Student  
 - 📱 Passionate Flutter Developer  
 - 🔐 Exploring Cybersecurity & Bug Bounty  
-- 🌱 Learning **Flutter, Firebase & Backend**  
-- 🎯 Goal: Secure a strong internship & build impactful apps  
+- 🌱 Learning **Machine Learning (NLP), Cybersecurity & Backend** - 🎯 Goal: Secure a strong internship & build impactful apps  
 
 ---
 
@@ -23,13 +22,16 @@
   <a href="mailto:harshanpv3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
+  <a href="YOUR_WHATSAPP_LINK_HERE">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,java,git,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,java,c,mysql,js,html,css,bootstrap,unity,git,github&perline=7" />
 </p>
 
 ---
@@ -68,20 +70,19 @@
 ---
 
 ## 🧠 Currently Learning
-- Advanced Flutter Development  
-- Backend APIs  
-- Cybersecurity & Bug Bounty  
+- 🤖 Machine Learning (Natural Language Processing)
+- 🔐 Cybersecurity & Bug Bounty  
+- 📱 Advanced Flutter Development  
 
 ---
 
 ## 💡 Developer Quote
-> “Consistency beats talent when talent doesn’t work hard.”
+> "Make it work, make it right, make it fast."  
+> — *Kent Beck*
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshanx&label=Profile%20views&color=blue&style=flat" />
-
-
-
+</p>

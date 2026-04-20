@@ -22,7 +22,7 @@
   <a href="mailto:harshanpv3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="YOUR_WHATSAPP_LINK_HERE">
+  <a href="https://wa.me/qr/BB4JFTFF7KQKH1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>

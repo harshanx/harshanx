@@ -9,8 +9,8 @@
 ## 🚀 About Me
 - 🎓 BTech Computer Science Student  
 - 📱 Passionate Flutter Developer  
-- 🔐 Exploring Cybersecurity & Bug Bounty  
-- 🌱 Learning **Machine Learning (NLP), Cybersecurity & Backend** - 🎯 Goal: Secure a strong internship & build impactful apps  
+- 🔐 Exploring Cybersecurity   
+- 🌱 Learning **Machine Learning (NLP), Cybersecurity & Backend** - 🎯 Goal: Secure a strong  career in tech 
 
 ---
 

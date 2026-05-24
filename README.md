@@ -9,8 +9,9 @@
 ## 🚀 About Me
 - 🎓 BTech Computer Science Student  
 - 📱 Passionate Flutter Developer  
-- 🔐 Exploring Cybersecurity   
-- 🌱 Learning **Machine Learning (NLP), Cybersecurity & Backend** - 🎯 Goal: Secure a strong  career in tech 
+- 🔐 Exploring Cybersecurity  
+- 🌱 Learning **Machine Learning (NLP), Cybersecurity & Backend**  
+- 🎯 Goal: Secure a strong career in tech  
 
 ---
 
@@ -54,6 +55,15 @@
 
 ---
 
+### 💻 MacBook – Apple Style Product Website
+- 🍎 Apple-inspired modern product landing page  
+- 🎞️ Scroll-driven canvas animations with 240+ frames  
+- ✨ Custom cursor effects & glassmorphism UI  
+- ⚡ Built using pure HTML, CSS & Vanilla JavaScript  
+- 🔗 Repo: https://github.com/harshanx/macbook  
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshanx&show_icons=true&theme=tokyonight" />
@@ -73,6 +83,7 @@
 - 🤖 Machine Learning (Natural Language Processing)
 - 🔐 Cybersecurity & Bug Bounty  
 - 📱 Advanced Flutter Development  
+- 🌐 Advanced Frontend Animations & Creative Web Development
 
 ---
 
